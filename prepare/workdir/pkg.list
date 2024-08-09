@@ -1,0 +1,8 @@
+# poppler
+poppler-data
+# openjpeg
+libopenjp2-7-dev
+libopenjp2-7
+# quazip
+libquazip5-dev
+libquazip5-1
